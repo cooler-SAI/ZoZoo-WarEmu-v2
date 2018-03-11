@@ -1,0 +1,16 @@
+[Offsets]
+RC4Address = 001844C8
+
+##############################
+##FilterLevel: 
+## 0 Log all packets
+## 1 Log only the list in Opcodes
+## 2 Log everything except Opcodes
+##############################
+
+
+[Filter]
+Level = 1
+Opcodes = 0x0b,0x81
+
+

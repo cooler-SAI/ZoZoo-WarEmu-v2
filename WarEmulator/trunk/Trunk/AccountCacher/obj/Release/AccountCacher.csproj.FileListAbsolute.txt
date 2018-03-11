@@ -1,0 +1,6 @@
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\AccountCacher\obj\Release\AccountCacher.csprojResolveAssemblyReference.cache
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\bin\Release\AccountCacher.exe.config
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\bin\Release\AccountCacher.exe
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\bin\Release\AccountCacher.pdb
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\AccountCacher\obj\Release\AccountCacher.exe
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\AccountCacher\obj\Release\AccountCacher.pdb

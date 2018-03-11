@@ -1,0 +1,6 @@
+C:\Users\FN\Documents\GitHub\aps\FrameWork2\bin\Debug\FrameWork.dll
+C:\Users\FN\Documents\GitHub\aps\FrameWork2\bin\Debug\FrameWork.pdb
+C:\Users\FN\Documents\GitHub\aps\FrameWork2\bin\Debug\MySql.Data.dll
+C:\Users\FN\Documents\GitHub\aps\FrameWork2\obj\Debug\FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\FN\Documents\GitHub\aps\FrameWork2\obj\Debug\FrameWork.dll
+C:\Users\FN\Documents\GitHub\aps\FrameWork2\obj\Debug\FrameWork.pdb

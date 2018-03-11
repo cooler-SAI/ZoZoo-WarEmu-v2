@@ -1,0 +1,9 @@
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\Launcher\obj\Release\Launcher.Accueil.resources
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\Launcher\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\Launcher\obj\Release\Launcher.csproj.GenerateResource.Cache
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\bin\Release\Launcher\Launcher.exe.config
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\bin\Release\Launcher\Launcher.exe
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\bin\Release\Launcher\Launcher.pdb
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\Launcher\obj\Release\Launcher.csprojResolveAssemblyReference.cache
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\Launcher\obj\Release\Launcher.exe
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\Launcher\obj\Release\Launcher.pdb

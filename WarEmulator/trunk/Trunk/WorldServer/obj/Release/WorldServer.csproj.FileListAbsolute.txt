@@ -1,0 +1,6 @@
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\bin\Release\WorldServer.exe.config
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\bin\Release\WorldServer.exe
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\bin\Release\WorldServer.pdb
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\WorldServer\obj\Release\WorldServer.exe
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\WorldServer\obj\Release\WorldServer.pdb
+C:\Users\FN\Documents\GitHub\WarEmulator\Trunk\WorldServer\obj\Release\WorldServer.csprojResolveAssemblyReference.cache

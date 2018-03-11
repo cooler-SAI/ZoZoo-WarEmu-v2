@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+
+  <appSettings>
+    <add key="path" value="E:\games\Electronic Arts\Warhammer Online - Age of Reckoning" />
+    <add key="username" value="anything" />
+    <add key="password" value="password" />
+  </appSettings>
+</configuration>
